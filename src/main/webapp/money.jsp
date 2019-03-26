@@ -45,7 +45,7 @@
 </head>
 <body><br>
 	<a href="index.jsp"><img src="images/home.png" title=" Home "></a>
-	<h2> Money Management </h2><br>
+	<h2> Money Management Tips </h2><br>
 	<hr>
 	<div class="zero">
 		<img src="images/money.jpg" id="body">

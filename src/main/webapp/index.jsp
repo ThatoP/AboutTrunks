@@ -66,7 +66,7 @@
 		.menu1 a:hover {background-color: #ddd; border: 1px solid #41719C}
 		.one1:hover .menu1 {display: block; background-color: rgba(239, 255, 6, 0.3);}
 		
-		.menu2 a:hover {background-color: #ddd; border: 1px solid #41719C}
+		.menu2 a:hover {background-color: #ddd; border: 1px solid #41719C;}
 		.one2:hover .menu2 {display: block;background-color: rgba(239, 255, 6, 0.3);}
 		
 		
@@ -110,10 +110,10 @@
 			<p><b> Fin Games </b></p>
 			<a href="#"><img src="images/leftDoor.png" title = "Financial Games"></a>
 				<div class="menu1">
-					<a href="#"> Level 1</a>
-					<a href="#"> Level 2</a>
-					<a href="#"> Level 3</a>
-					<a href="#"> Level 4</a>
+					<a href="level1.jsp"> Level 1</a>
+					<a href="level2.jsp"> Level 2</a>
+					<a href="level3.jsp"> Level 3</a>
+					<a href="level4.jsp"> Level 4</a>
 				</div>
 		</div>
 		<div id="space"></div>
@@ -122,7 +122,7 @@
 			<a href="#"><img src="images/leftDoor.png" title = "Financial Services"></a>
 				<div class="menu2">
 					<a href="money.jsp"> Money Management Tips</a>
-					<a href="#"> Banks</a>
+					<a href="banks.jsp"> Banks</a>
 					<a href="#"> Insurance </a>
 					<a href="#"> Stock Brokers </a>
 					<a href="#"> Real Estate </a>
